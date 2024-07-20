@@ -1,0 +1,6 @@
+@APICEP_HostAddress = http://localhost:5268
+
+GET {{APICEP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
